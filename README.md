@@ -1,6 +1,6 @@
 # Carbon Companion
 
-A web application designed to help users track and reduce their carbon footprint through personalized recommendations and eco-friendly habit formation.
+A web application designed to help users track and reduce their carbon footprint through personalized recommendations and eco-friendly habit formation. Updated on April 14, 2025.
 
 ## Project Overview
 
