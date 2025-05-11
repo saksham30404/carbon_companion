@@ -8,7 +8,7 @@ Carbon Companion provides tools and resources to help individuals make environme
 
 ## Getting Started
 
-To run this project locally, you'll need Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+To run this project locally, you'll need Node.js & npm installed - [install with nvm]
 
 Follow these steps:
 
